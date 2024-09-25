@@ -1,4 +1,4 @@
-## Hi there 👋
+## Prachi Mate 👋
 
 <!--
 **prachi-mate/prachi-mate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
